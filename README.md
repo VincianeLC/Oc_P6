@@ -1,4 +1,4 @@
-#Construction de l'API du site Piquante (galerie de sauces piquantes).
+#Construction de l'API de l'application d'évaluation Piiquante (galerie de sauces piquantes).
 
 Fonctionnalités Du point de vue des fonctionnalités, l’API va permettre à un utilisateur :
 
